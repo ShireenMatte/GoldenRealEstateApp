@@ -1,4 +1,4 @@
-package com.realesta.employeedetails;
+package com.realestat.employeedetails;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
