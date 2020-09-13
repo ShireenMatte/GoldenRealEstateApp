@@ -1,4 +1,4 @@
-package com.realesta.employeedetails;
+package com.realestat.employeedetails;
 
 import java.util.Objects;
 
